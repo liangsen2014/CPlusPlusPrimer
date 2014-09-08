@@ -28,7 +28,7 @@ int main()
 
 	//default initialization
 	int local_int;
-	string local_str;
+	string local_str;						// local string value
 
 	cout << global_int << "\t" << global_str << endl;
 	//cout << local_int << "\t" << local_str << endl;		// uninitialization error
